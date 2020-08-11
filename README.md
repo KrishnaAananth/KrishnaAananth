@@ -1,9 +1,11 @@
 # Krishnaananth Jegatheeswaran - @KrishnaAananth
 
-<img alt="HelloWorld Iam Krishnaa!" src="/images/hello1.png?raw=true" />
-
+![1](images/hello1.PNG)
+![7](images/hello7.PNG)
+![8](images/hello8.PNG)
 
 ## Introduction
+
 
 ### Hi there 👋
 
@@ -16,7 +18,6 @@
 
 - My greatest passion in my life is using my technical skills to benefit other people and organizations.
 
-
 - 🔭 I’m currently working on Laravel right now
 
 - 🌱 I’m currently learning React & Spring Boot right now
@@ -28,10 +29,10 @@
 - 😄 Pronouns: He/Him
 
 - ⚡ Fun facts: 
-                I love 📖 Non-Fictional Books a lot.... But Iam a Slowww Reader😄..... 
-                I love 🎮 Playing Chess.... But Iam not a Professional Player though😄.....
-                I love 📺 Movies & 🎵 Music which helps me to Calm down and Stress down😄.....
-                I love 🚲 travelling with My Bike and Capture the Nature with both 👀 My Eyes and 📷 Camera😄.....
+    - 🙊 I love 📖 Non-Fictional Books a lot.... But Iam a Slowww Reader😄..... 
+    - 🙊 I love 🎮 Playing Chess.... But Iam not a Professional Player though😄.....
+    - 🙊 I love 📺 Movies & 🎵 Music which helps me to Calm down and Stress down😄.....
+    - 🙊 I love 🚲 travelling with My Bike and Capture the Nature with both 👀 My Eyes and 📷 Camera😄.....
  
  
 ## Get In Touch
