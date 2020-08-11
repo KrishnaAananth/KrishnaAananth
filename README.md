@@ -31,13 +31,6 @@
     - 🙊 I love 🎮 Playing Chess.... But Iam not a Professional Player though😄.....
     - 🙊 I love 📺 Movies & 🎵 Music which helps me to Calm down and Stress down😄.....
     - 🙊 I love 🚲 travelling with My Bike and Capture the Nature with both 👀 My Eyes and 📷 Camera😄.....
- 
- 
-## Get In Touch
-
-- ✉️ Email          : jkrishnaananth@gmail.com
-- 👍 LinkedIn       : www.linkedin.com/in/krishnaananth-jegatheeswaran-4b108b144
-- 👉 Personal Site  : Working on Progress 😄
 
 
 ## My Personal Qualities & Skills
@@ -56,6 +49,13 @@
 - 🏆 C#/.NET
 - 🏆 JavaScript Frameworks - Angular/React/Vue
 - 🏆 Spring Boot
+ 
+ 
+## Get In Touch
+
+- ✉️ Email          : jkrishnaananth@gmail.com
+- 👍 LinkedIn       : www.linkedin.com/in/krishnaananth-jegatheeswaran-4b108b144
+- 👉 Personal Site  : Working on Progress 😄
 
 
 <!--
