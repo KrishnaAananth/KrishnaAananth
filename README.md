@@ -1,6 +1,5 @@
 # Krishnaananth Jegatheeswaran - @KrishnaAananth
 
-![1](images/hello1.PNG)
 ![7](images/hello7.PNG)
 ![8](images/hello8.PNG)
 
