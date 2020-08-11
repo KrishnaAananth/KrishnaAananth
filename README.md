@@ -1,14 +1,28 @@
 # Krishnaananth Jegatheeswaran - @KrishnaAananth
 
+![HelloWorld Iam Krishnaa!](/hello1.png)
+![HelloWorld Iam Krishnaa!](/hello2.png)
+![HelloWorld Iam Krishnaa!](/hello3.png)
+![HelloWorld Iam Krishnaa!](/hello4.png)
+![HelloWorld Iam Krishnaa!](/hello5.png)
+![HelloWorld Iam Krishnaa!](/hello6.png)
+![HelloWorld Iam Krishnaa!](/hello7.png)
+![HelloWorld Iam Krishnaa!](/hello8.png)
+![HelloWorld Iam Krishnaa!](/hello9.png)
+
+## Introduction
+
 ### Hi there 👋
 
-I am a highly competent IT professional with a dynamic and an aspiring personality with strong dedication and hard work together. 
 
-I have strong technical skills as well as excellent interpersonal skills, enabling me to interact with a wide range of clients. 
+- I am a highly competent IT professional with a dynamic and an aspiring personality with strong dedication and hard work together. 
 
-I am eager to be challenged in order to grow and further improve my software development skills. 
+- I have strong technical skills as well as excellent interpersonal skills, enabling me to interact with a wide range of clients. 
 
-My greatest passion in my life is using my technical skills to benefit other people and organizations.
+- I am eager to be challenged in order to grow and further improve my software development skills. 
+
+- My greatest passion in my life is using my technical skills to benefit other people and organizations.
+
 
 - 🔭 I’m currently working on Laravel right now
 
@@ -18,15 +32,40 @@ My greatest passion in my life is using my technical skills to benefit other peo
 
 - 🤔 I’m looking for help with Spring Boot
 
-- 📫 How to reach me: Contact me using my Email... jkrishnaananth@gmail.com or else through my Website... You have to wait a little bit Sorry... Website is on progress now😄
-
 - 😄 Pronouns: He/Him
 
 - ⚡ Fun facts: 
-                I love Non-Fictional Books a lot.... But Iam a Slowww Reader😄..... 
-                I love Movies & Music which helps me to Calm down and Stress down😄.....
-                I love travelling with My Bike and Capture the Nature with both My Eyes and Camera😄.....
-                
+                I love 📖 Non-Fictional Books a lot.... But Iam a Slowww Reader😄..... 
+                I love 🎮 Playing Chess.... But Iam not a Professional Player though😄.....
+                I love 📺 Movies & 🎵 Music which helps me to Calm down and Stress down😄.....
+                I love 🚲 travelling with My Bike and Capture the Nature with both 👀 My Eyes and 📷 Camera😄.....
+ 
+ 
+## Get In Touch
+
+- ✉️ Email          : jkrishnaananth@gmail.com
+- 👍 LinkedIn       : www.linkedin.com/in/krishnaananth-jegatheeswaran-4b108b144
+- 👉 Personal Site  : Working on Progress 😄
+
+
+## My Personal Qualities & Skills
+
+- ⚡ Creative
+- ⚡ Learn & Be Curious
+- ⚡ Problem Solving Skills
+- ⚡ Management Skills
+- ⚡ Communication Skills (Tamil/English/Sinhala)
+
+## Proficiency In
+
+- 🏆 HTML/CSS/JavaScript
+- 🏆 SQL
+- 🏆 Laravel
+- 🏆 C#/.NET
+- 🏆 JavaScript Frameworks - Angular/React/Vue
+- 🏆 Spring Boot
+
+
 <!--
 **KrishnaAananth/KrishnaAananth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
