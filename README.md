@@ -1,6 +1,6 @@
 # Krishnaananth Jegatheeswaran - @KrishnaAananth
 
-![Hello](/images/hello8.PNG)
+![Hello](https://raw.githubusercontent.com/KrishnaAananth/KrishnaAananth/master/images/hello8.PNG)
 
 ## Introduction
 
