@@ -1,14 +1,7 @@
 # Krishnaananth Jegatheeswaran - @KrishnaAananth
 
-![HelloWorld Iam Krishnaa!](/hello1.png)
-![HelloWorld Iam Krishnaa!](/hello2.png)
-![HelloWorld Iam Krishnaa!](/hello3.png)
-![HelloWorld Iam Krishnaa!](/hello4.png)
-![HelloWorld Iam Krishnaa!](/hello5.png)
-![HelloWorld Iam Krishnaa!](/hello6.png)
-![HelloWorld Iam Krishnaa!](/hello7.png)
-![HelloWorld Iam Krishnaa!](/hello8.png)
-![HelloWorld Iam Krishnaa!](/hello9.png)
+<img alt="HelloWorld Iam Krishnaa!" src="/images/hello1.png?raw=true" />
+
 
 ## Introduction
 
