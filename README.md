@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-I am a highly competent IT professional with a dynamic and an aspiring personality with strong dedication and hard work together. I have strong technical skills as well as excellent interpersonal skills, enabling me to interact with a wide range of clients. I am eager to be challenged in order to grow and further improve my software development skills. My greatest passion in my life is using my technical skills to benefit other people and organizations.
+I am a highly competent IT professional with a dynamic and an aspiring personality with strong dedication and hard work together. 
+
+I have strong technical skills as well as excellent interpersonal skills, enabling me to interact with a wide range of clients. 
+
+I am eager to be challenged in order to grow and further improve my software development skills. 
+
+My greatest passion in my life is using my technical skills to benefit other people and organizations.
 
 <!--
 **KrishnaAananth/KrishnaAananth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
