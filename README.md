@@ -50,6 +50,11 @@
 - 🏆 JavaScript Frameworks - Angular/React/Vue
 - 🏆 Spring Boot
  
+ ## Extra-Curricular Activities
+
+- 👯 Committee Member (Web Developer) @ All University Student's Development Association Vavuniya [2017 - 2018]
+- 👯 Organizing Committee Member @ Exposition Magazine Launch - Department of Industrial Management - University of Kelaniya [Exposition 2017 - Issue 13]
+- 👯 Member @ Microsoft Club - University of Kelaniya [2019 - 2020]
  
 ## Get In Touch
 
