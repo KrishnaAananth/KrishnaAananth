@@ -16,9 +16,9 @@
 
 - My greatest passion in my life is using my technical skills to benefit other people and organizations.
 
-- 🔭 I’m currently working on Laravel right now
+- 🔭 I’m currently working on React, Laravel and Angular right now
 
-- 🌱 I’m currently learning React & Spring Boot right now
+- 🌱 I’m currently learning React, Angular & Spring Boot right now
 
 - 👯 I’m looking to collaborate on any challenging projects on .NET/Laravel/Spring Boot/Angular/React
 
