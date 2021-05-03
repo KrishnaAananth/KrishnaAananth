@@ -16,11 +16,11 @@
 
 - My greatest passion in my life is using my technical skills to benefit other people and organizations.
 
-- 🔭 I’m currently working on React, Laravel and Angular right now
+- 🔭 I’m currently working on React, Laravel, Angular and .NET right now
 
-- 🌱 I’m currently learning React, Angular & Spring Boot right now
+- 🌱 I’m currently learning React, Angular & Node JS right now
 
-- 👯 I’m looking to collaborate on any challenging projects on .NET/Laravel/Spring Boot/Angular/React
+- 👯 I’m looking to collaborate on any challenging projects on .NET/Laravel/Angular/.NET/React
 
 - 🤔 I’m looking for help with Spring Boot
 
@@ -46,9 +46,10 @@
 - 🏆 HTML/CSS/JavaScript
 - 🏆 SQL
 - 🏆 Laravel
-- 🏆 C#/.NET
-- 🏆 JavaScript Frameworks - Angular/React/Vue
-- 🏆 Spring Boot
+- 🏆 C#
+- 🏆 .NET
+- 🏆 JavaScript Frameworks - Angular/React
+- 🏆 Node JS
  
  ## Extra-Curricular Activities
 
@@ -60,6 +61,7 @@
 
 - ✉️ Email          : jkrishnaananth@gmail.com
 - 👍 LinkedIn       : www.linkedin.com/in/krishnaananth-jegatheeswaran-4b108b144
+- ⚡ Twine          : https://www.twine.net/KrishnaAnanth
 - 👉 Personal Site  : Working on Progress 😄
 
 
